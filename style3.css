@@ -1,0 +1,23 @@
+nav{
+	width: 102%;
+	height: 60px;
+	margin: -9px;
+	background-color: blue;
+}
+.logo{
+	color: white;
+	font-size: 30px;
+	line-height: 60px;
+	margin-left: 380px;
+	float: left;
+}
+
+.menu{
+	float: left;
+	padding-left: 432px;
+	
+}
+.menu li{
+	float: left;
+	
+}
